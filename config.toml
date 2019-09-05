@@ -1,3 +1,59 @@
-baseURL = "http://example.org/"
+baseURL="ugurcanakkok.github.io"
+baseurl = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Uğurcan Akkök"
+theme = "hello-friend-ng"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "02-01-2006"
+  dateformNumTime = "02-01-2006 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Uğurcan Akkök's blogging site."
+  keywords = "homepage, blog, computer science, development, programming, ugurcan akkok"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  
+[languages]
+  [languages.en]
+    title = "Uğurcan Akkök"
+    subtitle = "An Enthusiastic Computer Engineering Student"
+    keywords = ""
+    copyright = "Uğurcan Akkök"
+    readOtherPosts = "Read other posts"
+ 
+  [languages.en.params.logo]
+    logoText = "$ cd ~"
+    logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+ 
+  # You can create a language based menu
+  [languages.en.menu]
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "Me"
+      url = "/about"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      name = "Posts"
+      url = "/posts"
+ 
+# And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
