@@ -4,6 +4,14 @@ languageCode = "en-us"
 title = "Uğurcan Akkök"
 theme = "hello-friend-ng"
 
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
@@ -11,7 +19,7 @@ theme = "hello-friend-ng"
   dateformNumTime = "02-01-2006 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Uğurcan Akkök's blogging site."
+  description = "Uğurcan Akkök's blogging website."
   keywords = "homepage, blog, computer science, development, programming, ugurcan akkok"
   images = [""]
 
@@ -19,6 +27,19 @@ theme = "hello-friend-ng"
   contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
+
+  #Social icons
+  [[params.social]]
+    name = "github"
+    url = "github.com/UgurcanAkkok"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "linkedin.com/in/akkokugurcan"
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:akkokugurcan@gmail.com"
   
 [languages]
   [languages.en]
@@ -36,16 +57,6 @@ theme = "hello-friend-ng"
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
  
-  # You can create a language based menu
-  [languages.en.menu]
-    [[languages.en.menu.main]]
-      identifier = "about"
-      name = "Me"
-      url = "/about"
-    [[languages.en.menu.main]]
-      identifier = "posts"
-      name = "Posts"
-      url = "/posts"
  
 # And you can even create generic menu
 [menu]
