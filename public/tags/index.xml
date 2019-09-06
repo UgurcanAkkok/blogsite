@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Uğurcan Akkök</title>
+    <link>https://ugurcanakkok.github.io/tags/</link>
+    <description>Recent content in Tags on Uğurcan Akkök</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Uğurcan Akkök</copyright>
+    <lastBuildDate>Thu, 05 Sep 2019 21:51:07 +0300</lastBuildDate>
+    
+	<atom:link href="https://ugurcanakkok.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>https://ugurcanakkok.github.io/tags/about/</link>
+      <pubDate>Thu, 05 Sep 2019 21:51:07 +0300</pubDate>
+      
+      <guid>https://ugurcanakkok.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Uğurcan Akkök</title>
+    <link>https://ugurcanakkok.github.io/tags/about/</link>
+    <description>Recent content in about on Uğurcan Akkök</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Uğurcan Akkök</copyright>
+    <lastBuildDate>Thu, 05 Sep 2019 21:51:07 +0300</lastBuildDate>
+    
+	<atom:link href="https://ugurcanakkok.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://ugurcanakkok.github.io/about/</link>
+      <pubDate>Thu, 05 Sep 2019 21:51:07 +0300</pubDate>
+      
+      <guid>https://ugurcanakkok.github.io/about/</guid>
+      <description>Uğurcan Akkök I am a computer engineering student, studying at Bahcesehir University. I am very passionate about programming and software in general. You can take a look at which projects i am working on at my github page. My interests are changing fast but i try to focus them on one or two points to be able to improve myself better on the certain topics.
+I believe in free society and human rights, which FSF, Free Software Foundation firmly supports it with all its heart.</description>
+    </item>
+    
+  </channel>
+</rss>
