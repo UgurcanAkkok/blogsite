@@ -1,4 +1,4 @@
-baseURL="ugurcanakkok.github.io"
+baseUrl = "/"
 languageCode = "en-us"
 title = "Uğurcan Akkök"
 theme = "hello-friend-ng"
@@ -10,13 +10,13 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 
-
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "02-01-2006"
   dateformNumTime = "02-01-2006 15:04 -0700"
-
+  
+  homeSubtitle = "An Enthusiastic Computer Engineering Student"
   # Metadata mostly used in document's head
   description = "Uğurcan Akkök's blogging website."
   keywords = "homepage, blog, computer science, development, programming, ugurcan akkok"
@@ -30,11 +30,11 @@ buildExpired = false
   #Social icons
   [[params.social]]
     name = "github"
-    url = "github.com/UgurcanAkkok"
+    url = "https://github.com/UgurcanAkkok"
 
   [[params.social]]
     name = "linkedin"
-    url = "linkedin.com/in/akkokugurcan"
+    url = "https://linkedin.com/in/akkokugurcan"
 
   [[params.social]]
     name = "email"
@@ -43,7 +43,7 @@ buildExpired = false
 [languages]
   [languages.en]
     title = "Uğurcan Akkök"
-    subtitle = "An Enthusiastic Computer Engineering Student"
+    subtitle = ""
     keywords = ""
     copyright = "Uğurcan Akkök"
     readOtherPosts = "Read other posts"
