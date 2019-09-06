@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 date: 2019-09-05T21:51:07+03:00
-draft: false
 toc: false
 images: ["images/avatar.jpg"]
 tags: ["about"]
-category: ["about"] 
+category: ["about", "posts"] 
+draft: false
 ---
 
 # Uğurcan Akkök
