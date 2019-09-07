@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Uğurcan Akkök</title>
-    <link>/</link>
-    <description>Recent content on Uğurcan Akkök</description>
+    <title>FOSS on Uğurcan Akkök</title>
+    <link>/tags/foss/</link>
+    <description>Recent content in FOSS on Uğurcan Akkök</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Uğurcan Akkök</copyright>
     <lastBuildDate>Fri, 06 Sep 2019 18:17:20 +0300</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/foss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,16 +22,6 @@
 It is designed to protect user&amp;rsquo;s rights to use it, study it and share it. Richard Stallman, the founder of Free Software Foundation (FSF), states it has four essential points.
 Users should be able to
  Run it as they wish Study the source code Modify the source code Share the source code with the changes.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 Sep 2019 21:51:07 +0300</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Uğurcan Akkök I am a computer engineering student, studying at Bahcesehir University. I am very passionate about programming and software in general. You can take a look at which projects i am working on at my github page. My interests are changing fast but i try to focus them on one or two points to be able to improve myself better on the certain topics.
-I believe in free society and human rights, which FSF, Free Software Foundation firmly supports it with all its heart.</description>
     </item>
     
   </channel>
